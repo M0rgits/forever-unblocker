@@ -1,0 +1,53 @@
+<meta name="valid">
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Dashboard</title>
+    <meta name="description" content="Ho&#8203;ly Unbl&shy;o&#173;c&shy;ker is a se&shy;c&#8203;ure we&#173;b pr&#8203;ox&#173;y se&#173;rvi&#173;ce with sup&#8203;po&#173;rt for many sit&#173;es. By&#8203;pa&#173;ss fi&shy;l&shy;ter&shy;s and fr&#8203;ee&shy;ly enj&#173;oy a saf&#8203;er pr&#8203;iva&shy;te b&#173;rowsi&#8203;ng expe&shy;ri&shy;ence or u&shy;nblo&#8203;ck webs&shy;ites on de&shy;vices such as Chr&#173;omebo&shy;oks and at plac&#173;es li&#8203;ke sch&#173;o&#173;ol or wor&#173;k with&#8203;out do&shy;wnload&#173;ing anythi&shy;ng."
+    />
+    <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#434c5e">
+    <meta name="googlebot" content="index, follow, snippet" />
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/icon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+    <link rel="stylesheet" href="assets/css/styles-1644738239.css">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1493380855147376" crossorigin="anonymous"></script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/tsparticles@1.39.2/tsparticles.min.js" integrity="sha256-FCz5ToEA27payrGYaVGRidiIA+68Z31TBXFzcIT1/gU=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+  
+    <script> 
+    $(function(){
+      $("#header").load("pages/misc/deobf/header.html"); 
+    });
+    </script> 
+</head>
+
+<body>
+    <span style="display: none;" data-fact="Example4" data-type="Example3">Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2</span>
+    <div id="header" class="fullwidth"></div>
+    <div id="particles-js" class="fullwidth"></div>
+    </div>
+        <div class="box-home text-center">
+            <h1>End Intern&shy;et Censo&shy;rship.</h1>
+            <h1>Priv&#173;acy right at your fingertips.</h1>
+            <a class="hovermessage buttonlink startbutton" href="/?g">Ga&#173;m&#173;e&#8203; Cat&shy;al&#173;og</a>
+            <a class="hovermessage buttonlink startbutton" href="/?z">We&#173;b P&#173;ro&#8203;x&shy;ie&#173;s</a>
+        </div>
+        <div id="scrollfix">&#8203;<br>&shy;</div>
+        </div>
+    </div>
+    <div id="footer" class="fullwidth">
+    </div>
+    <span style="display: none;" data-fact="Example2" data-type="Example4">Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2</span>
+    <script src="assets/js/common-16451543478.js"></script>
+    <script src="assets/js/links-1644738239.js"></script>
+    <script src="assets/js/csel.js"></script>
+    <script src="assets/js/footer-1644738239.js"></script>
+    <script src="assets/js/desc-1644738239.js"></script>
+    <script defer="defer" src="assets/js/particlesjs/particles.js"></script>
+</body>
+
+</html>

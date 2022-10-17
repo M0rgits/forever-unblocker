@@ -1,0 +1,38 @@
+{
+  "result": {
+    "id": "26878259-9e29-4471-bdb0-63ac6af7926b",
+    "hostname": "falclak.ml",
+    "ssl": {
+      "id": "d2a5d081-5969-4ff4-a58e-e07ed8e33a4d",
+      "type": "dv",
+      "method": "txt",
+      "status": "initializing",
+      "settings": {
+        "http2": "on",
+        "tls_1_3": "on",
+        "min_tls_version": "1.2",
+        "ciphers": [
+          "AES128-SHA",
+          "ECDHE-RSA-AES128-GCM-SHA256"
+        ],
+        "early_hints": "on"
+      },
+      "wildcard": false,
+      "certificate_authority": "google"
+    },
+    "status": "pending",
+    "ownership_verification": {
+      "type": "txt",
+      "name": "_cf-custom-hostname.falclak.ml",
+      "value": "f29ff0bc-e9a2-4fa1-9f56-109cce44458c"
+    },
+    "ownership_verification_http": {
+      "http_url": "http://falclak.ml/.well-known/cf-custom-hostname-challenge/26878259-9e29-4471-bdb0-63ac6af7926b",
+      "http_body": "f29ff0bc-e9a2-4fa1-9f56-109cce44458c"
+    },
+    "created_at": "2022-10-07T19:13:43.825828Z"
+  },
+  "success": true,
+  "errors": [],
+  "messages": []
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<head>
+</head>
+
+<body onload=httpreq()>
+  <button onclick=httpreq()>click me</button>
+  <p id='url'>Url</p>
+<script type="text/javascript">
+function httpreq(){
+    var apiUrl = 'https://thespot.cf/url';
+    fetch(apiUrl, { mode: 'cors', method: 'GET' }
+    ).then(response => {
+      return response.text();
+    }).then(data => {
+      document.getElementById('url').innerHTML = data;
+      window.location.href = `http://${data}`
+    }).catch(err => {
+      document.getElementById('url').innerHTML = err;
+      // Do something for an error here
+    });
+}
+</script>
+</body>
+</html>
